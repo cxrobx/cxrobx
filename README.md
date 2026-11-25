@@ -46,9 +46,9 @@ I build **local-first desktop software that plugs straight into your AI** — Ru
         <img src="https://raw.githubusercontent.com/cxrobx/onyx/main/docs/media/onyx-demo.gif" alt="Onyx demo" width="100%" />
       </a>
       <br />
-      <strong><a href="https://github.com/cxrobx/onyx">Onyx</a></strong> · <code>Python · macOS · Local-First</code>
+      <strong><a href="https://github.com/cxrobx/onyx">Onyx</a></strong> · <code>Python · macOS · Hybrid Search · MCP</code>
       <br />
-      Highlight-to-ask reading workspace for HTML, Markdown, and PDF — right-click any passage for <em>ELI5</em>, <em>Prove it</em>, or <em>Ask</em> with verified citations from your own files. <a href="https://cxventures.io/products/onyx">Overview →</a>
+      Local-first second brain for both Markdown notes and interactive HTML artifacts — Obsidian-style <code>⌘E</code> Live Preview, <code>⌘P</code> hybrid semantic search (<a href="https://github.com/cxrobx/vault-mcp">vault-mcp</a>), and inline Claude/Codex Q&amp;A with verified citations. <a href="https://cxventures.io/products/onyx">Overview →</a>
     </td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ Source-available and open-source tools built to stay fast, local-first, and comp
 | **[cxmeetings](https://github.com/cxrobx/cxmeetings)** | SwiftUI · Core Audio · TypeScript · MCP | Real-time menu-bar meeting copilot with local transcription, live drift pulse, coaching, and approval-gated AI workers ([overview](https://cxventures.io/products/cxmeetings)) |
 | **[cxboards](https://github.com/cxrobx/cxboards)** | Swift · FastAPI · React Flow · MCP | Local-first visual planning boards with 214 templates, per-board themes, in-place media, and live agent co-editing ([overview](https://cxventures.io/products/cxboards)) |
 | **[quickask](https://github.com/cxrobx/quickask)** | Swift · SwiftUI · AppKit | Native `⌥Space` screen-aware assistant and background macOS app controller |
-| **[onyx](https://github.com/cxrobx/onyx)** | Python · macOS | Local reading companion with streaming answers grounded in a chosen evidence folder |
+| **[onyx](https://github.com/cxrobx/onyx)** | Python · macOS · Hybrid Search · MCP | Local-first second brain for Markdown notes & interactive HTML artifacts with Obsidian Live Preview, `⌘P` hybrid semantic search (`vault-mcp`), Related pages, and verified-citation Q&A |
 | **[cxnotes](https://github.com/cxrobx/cxnotes)** | Electron · Whisper · MCP | Dual-track menu-bar meeting recorder, local transcription, and speaker-aware Obsidian filing |
 | **[Margin](https://github.com/cxrobx/Margin)** | Electron · Markdown · Alfred · MCP | Signed & notarized screen-edge notebook with live Markdown, Alfred capture, and MCP tools |
 | **[DiskSight](https://github.com/cxrobx/DiskSight)** | Swift · SwiftUI · GRDB · MCP | Treemap, sunburst, and icicle disk visualizer with content-hashed duplicate & cache detection |
