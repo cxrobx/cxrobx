@@ -51,6 +51,26 @@ I build **local-first desktop software that plugs straight into your AI** — Ru
       Highlight-to-ask reading workspace for HTML, Markdown, and PDF — right-click any passage for <em>ELI5</em>, <em>Prove it</em>, or <em>Ask</em> with verified citations from your own files. <a href="https://cxventures.io/products/onyx">Overview →</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/cxrobx/cxmeetings">
+        <img src="https://raw.githubusercontent.com/cxrobx/cxmeetings/main/docs/media/cxmeetings-demo.gif" alt="CXMeetings demo" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://github.com/cxrobx/cxmeetings">CXMeetings</a></strong> · <code>SwiftUI · Core Audio · TypeScript · MCP</code>
+      <br />
+      Real-time macOS menu-bar meeting copilot with local transcription, live drift pulse, coaching, and research/analysis workers that run only when you approve them. <a href="https://cxventures.io/products/cxmeetings">Overview →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/cxrobx/cxboards">
+        <img src="https://raw.githubusercontent.com/cxrobx/cxboards/main/docs/media/cxboards-demo.gif" alt="CXBoards demo" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://github.com/cxrobx/cxboards">CXBoards</a></strong> · <code>Swift · FastAPI · React Flow · MCP</code>
+      <br />
+      Local-first infinite spatial planning canvas for macOS with 214 templates, per-board themes, <code>⌘/</code> Ask drawer, and live Claude MCP edits with per-actor undo. <a href="https://cxventures.io/products/cxboards">Overview →</a>
+    </td>
+  </tr>
 </table>
 
 ---
