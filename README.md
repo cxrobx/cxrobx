@@ -63,6 +63,8 @@ Source-available and open-source tools built to stay fast, local-first, and comp
 |---|---|---|
 | **[cxmail](https://github.com/cxrobx/cxmail)** | Rust · Tauri 2 · React 19 · MCP | Direct IMAP/SMTP client with sandboxed rendering, voice-matched drafting, and `cxmail-mcp` |
 | **[cxtasks](https://github.com/cxrobx/cxtasks)** | Rust · Tauri 2 · React 19 · SQLite | Multi-crate task workspace with MCP capture, repo tripwires, and snapshot-backed agent runs |
+| **[cxmeetings](https://github.com/cxrobx/cxmeetings)** | SwiftUI · Core Audio · TypeScript · MCP | Real-time menu-bar meeting copilot with local transcription, live drift pulse, coaching, and approval-gated AI workers ([overview](https://cxventures.io/products/cxmeetings)) |
+| **[cxboards](https://github.com/cxrobx/cxboards)** | Swift · FastAPI · React Flow · MCP | Local-first visual planning boards with 214 templates, per-board themes, in-place media, and live agent co-editing ([overview](https://cxventures.io/products/cxboards)) |
 | **[quickask](https://github.com/cxrobx/quickask)** | Swift · SwiftUI · AppKit | Native `⌥Space` screen-aware assistant and background macOS app controller |
 | **[onyx](https://github.com/cxrobx/onyx)** | Python · macOS | Local reading companion with streaming answers grounded in a chosen evidence folder |
 | **[cxnotes](https://github.com/cxrobx/cxnotes)** | Electron · Whisper · MCP | Dual-track menu-bar meeting recorder, local transcription, and speaker-aware Obsidian filing |
@@ -75,14 +77,13 @@ Source-available and open-source tools built to stay fast, local-first, and comp
 
 ## MCP Servers & Agent Infrastructure
 
-Systems that connect coding agents to real browsers, local knowledge vaults, enterprise platforms, live meetings, and physical hardware:
+Systems that connect coding agents to real browsers, local knowledge vaults, enterprise platforms, and physical hardware:
 
 | Project | Stack | What it does |
 |---|---|---|
 | **[zen-mcp](https://github.com/cxrobx/zen-mcp)** | TypeScript · MV3 WebExtension | Drive your daily, already-signed-in Zen/Firefox browser from Claude Code — zero launch flags, zero restarts, container-scoped sessions (20+ tools) |
 | **[vault-mcp](https://github.com/cxrobx/vault-mcp)** | Python · Ollama · SQLite FTS5 | Hybrid semantic (768-dim local embeddings) + BM25 search MCP server over local Markdown/Obsidian vaults at zero API cost |
 | **[powerapp-mcp](https://github.com/cxrobx/powerapp-mcp)** | Python · FastMCP · Pydantic | 17-tool stateful MCP server that compiles natural language into importable Microsoft Power Apps `.msapp` packages with HTML previews |
-| **[meeting-copilot](https://github.com/cxrobx/meeting-copilot)** | SwiftUI · Core Audio · TypeScript | Real-time macOS meeting copilot with local transcription, live coaching, and approval-gated AI workers (Research, Summary, Analysis, Mockup) |
 | **[cxdeck](https://github.com/cxrobx/cxdeck)** | TypeScript · Stream Deck SDK | Elgato Stream Deck plugin surfacing blocked or finished Claude Code and agent sessions with one-tap jump-to-focus |
 | **[guide-skill](https://github.com/cxrobx/guide-skill)** | Python · Claude Code Skill | Single-file narrated, diagram-first HTML explainers with pure-CSS altitude toggles (ELI5 / ELI14 / ELII), inline SVGs, and Kokoro/Speechify TTS |
 
